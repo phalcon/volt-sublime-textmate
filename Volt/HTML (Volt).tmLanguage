@@ -1406,7 +1406,7 @@
         <key>volt-keywords</key>
         <dict>
             <key>match</key>
-            <string>(?&lt;=\s)((?:end)?(?:block|filter|for|set|if)|as|else|extends|from|ignore missing|import|only|use|with)(?=\s)</string>
+            <string>(?&lt;=\s)((?:end)?(?:block|filter|for|set|if)|as|else|elseif|elsefor|extends|from|ignore missing|import|only|use|with)(?=\s)</string>
             <key>name</key>
             <string>keyword.control.volt</string>
         </dict>
