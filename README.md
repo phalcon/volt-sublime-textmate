@@ -1,7 +1,7 @@
 Volt Syntax Highlight
 =====================
 
-![Volt-Bundle](http://www.phalconphp.com/img/volt-bundle.jpg)
+![Volt-Bundle](https://docs.phalconphp.com/en/latest/_images/volt.jpg)
 
 A [Sublime Text 2/3](http://www.sublimetext.com/) / [TextMate](http://macromates.com/) bundle for [Volt](http://docs.phalconphp.com/en/latest/reference/volt.html)
 
